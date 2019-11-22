@@ -9,9 +9,6 @@ def introduction (name)
   puts "Hi, my name is #{name}."
 end
 
-introduction ("Josh")
-introduction ("Dan")
-
 # 2) Define a Method That Takes in and Uses Two Arguments
 
 def introduction_with_language (name, language)
@@ -25,6 +22,9 @@ def introduction_with_language_optional (name, language = "Ruby")
 end
   
   
+
+
+
 
 
 
